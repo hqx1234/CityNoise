@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Vue](https://img.shields.io/badge/Vue-3.5+-green.svg)](https://vuejs.org/)
 
-一个现代化的城市噪音污染监测与管理平台，提供实时数据监测、可视化分析、告警管理和报告生成等功能。
+同济大学数据库课程设计项目，一个现代化的城市噪音污染监测与管理平台，提供实时数据监测、可视化分析、告警管理和报告生成等功能。
 
 ## ✨ 功能特性
 
