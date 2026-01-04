@@ -4,7 +4,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Vue](https://img.shields.io/badge/Vue-3.5+-green.svg)](https://vuejs.org/)
 
-一个现代化的城市噪音污染监测与管理平台，提供实时数据监测、可视化分析、告警管理和报告生成等功能。
+## 📋 项目简介
+
+**同济大学数据库课程设计项目**
+
+CityNoise 是一个现代化的城市噪音污染监测与管理平台，提供实时数据监测、可视化分析、告警管理和报告生成等功能。本项目旨在通过先进的技术栈和完整的系统架构，实现对城市噪音污染的有效监测和管理，为城市环境治理提供数据支持和决策依据。
 
 ## ✨ 功能特性
 
